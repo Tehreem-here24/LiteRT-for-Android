@@ -13,6 +13,7 @@ This is a fully functional Android application built with Kotlin and Jetpack Com
 
 ### Libraries
 
+* [LiteRT][litert]
 * [Jetpack Core][core]
 * [MVVM architectural pattern][mvvm]
 * [Dependency injection with Hilt][hilt]
@@ -21,6 +22,7 @@ This is a fully functional Android application built with Kotlin and Jetpack Com
 * [Moshi][moshi] for parsing JSON into Kotlin classes
 * [Coil][coil] for image loading
 
+[litert]: https://github.com/google-ai-edge/LiteRT
 
 [core]: https://developer.android.com/jetpack/androidx/releases/core
 
